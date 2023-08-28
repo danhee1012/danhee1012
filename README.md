@@ -17,6 +17,6 @@
 
 <h3 align="center">Github Stats ⚡</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danhee1012&theme=transparent&count_private=true&hide_border=true&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api?username=danhee1012&theme=transparent&count_private=true&hide_border=true&line_height=34">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhee1012&theme=transparent&count_private=true&hide_border=true">
 </p>
